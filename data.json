@@ -1,0 +1,98 @@
+{
+  "journal": {
+    "nomJournal": "Basket Scope",
+    "logo": "assets/images/logo.svg",
+    "phraseAccroche": "Toute la culture et l’actualité du basketball mondial",
+    "texteAppelAction": "Rejoignez notre communauté pour ne rien manquer des terrains NBA, EuroLeague ou playgrounds urbains",
+    "articlePrincipal": {
+      "titre": "Victor Wembanyama : la nouvelle ère du basket français",
+      "description": "À seulement 21 ans, Wemby s’impose comme un phénomène planétaire. Analyse d’un style de jeu unique.",
+      "date": "20 Mai 2025",
+      "theme": "Stars & talents",
+      "image": "assets/images/image1.png"
+    },
+    "articles": [
+      {
+        "titre": "NBA 2025 : les grandes surprises de la saison",
+        "date": "10 Mai 2025",
+        "theme": "Compétitions",
+        "image": "assets/images/image2.png",
+        "popularite": 25
+      },
+      {
+        "titre": "3x3, streetball et playground : l’autre visage du basket",
+        "date": "5 Mai 2025",
+        "theme": "Culture & terrain",
+        "image": "assets/images/image3.jpg",
+        "popularite": 95
+      },
+      {
+        "titre": "Les Français en NCAA : qui seront les futurs espoirs NBA ?",
+        "date": "28 Avril 2025",
+        "theme": "Jeunes talents",
+        "image": "assets/images/image4.jpg",
+        "popularite": 34
+      },
+      {
+        "titre": "Équipement : quelles chaussures dominent les parquets en 2025 ?",
+        "date": "15 Avril 2025",
+        "theme": "Tendance & performance",
+        "image": "assets/images/image2.png",
+        "popularite": 53
+      },
+      {
+        "titre": "Basket et santé mentale : un enjeu grandissant chez les pros",
+        "date": "3 Avril 2025",
+        "theme": "Enjeux humains",
+        "image": "assets/images/image3.jpg",
+        "popularite": 55
+      }
+    ],
+    "themes": [
+      {
+        "nom": "Stars & talents",
+        "description": "Portraits et parcours des basketteurs qui marquent leur époque."
+      },
+      {
+        "nom": "Compétitions",
+        "description": "NBA, EuroLeague, JO, Championnats : suivez les grands rendez-vous."
+      },
+      {
+        "nom": "Culture & terrain",
+        "description": "Basket urbain, playground, 3x3 : la face libre et créative du sport."
+      },
+      {
+        "nom": "Jeunes talents",
+        "description": "Focus sur les pépites en formation et les recrues prometteuses."
+      },
+      {
+        "nom": "Tendance & performance",
+        "description": "Technologie, équipement, entraînements : l’évolution du jeu."
+      },
+      {
+        "nom": "Enjeux humains",
+        "description": "Santé mentale, pression, reconversion : les défis hors-terrain."
+      }
+    ],
+    "auteurs": [
+      {
+        "prenom": "Claire",
+        "typeExperience": "Analyste basket",
+        "presentation": "Je décrypte les styles de jeu et les dynamiques d’équipe, de la NBA à la Pro A.",
+        "photo": "assets/images/image2.png"
+      },
+      {
+        "prenom": "Thomas",
+        "typeExperience": "Coach formateur",
+        "presentation": "J'accompagne les jeunes talents et analyse l’évolution du basket moderne.",
+        "photo": "assets/images/image3.jpg"
+      },
+      {
+        "prenom": "Elena",
+        "typeExperience": "Journaliste sport & société",
+        "presentation": "Je m'intéresse aux enjeux sociaux et culturels autour du basket.",
+        "photo": "assets/images/image4.jpg"
+      }
+    ]
+  }
+}
